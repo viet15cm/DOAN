@@ -1,0 +1,21 @@
+Website quản lý điểm danh sinh viên online
+Tóm lược các chức năng cần có : 
+Sinh viên:
+-	Đăng nhập bằng tài khoản , mật khẩu , tên tài khoản là mã sinh viên , mật khẩu mặt định có thể tự đổi.
+-	Xem danh sách điểm danh của mình hôm vắng , hôm có đi học.
+Giáo viên:
+-	Tạo môn học.
+-	Thêm sinh viên vào môn học bằng cách nhập tên sinh viên.
+-	Cài đặt tham số n là số tuần cho môn học , m là số tiết trong một tuần
+-	Xem kết quả quả điểm danh : hiển thị n dòng là n sinh viên , số cột là n tuần nó m số tiết học
+-	Có thể edit một ô điểm danh ( đánh dấu vắng đánh dấu có mặt)
+-	Đăng Nhập ,quản lý , phân quyền .
+-	Xóa sinh viên khỏi môn học
+Chức năng khác:
+-	Tự động tính tổng số buổi vắng của sinh viên
+-	Tìm kiếm theo nhiều tiêu chí  vd.. (số buổi vắng , tên sinh viên , mã sinh viên……)
+-	Chức năng In thống kê , đọc ra file excel , pdf Danh sách sinh viên
+-	Chức năng đọc danh sách sinh viên từ file excel vào cơ sỡ dữ liệu
+
+Sinh viện thực hiện : Nguyễn Quốc Việt
+Lớp : CTT12CD3A
